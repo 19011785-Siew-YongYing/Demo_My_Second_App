@@ -34,7 +34,7 @@
             android:id="@+id/button5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button 2"
+            android:text="@string/button2"
             android:textColor="#000000"
             app:backgroundTint="#CAC9C9" />
     </LinearLayout>
